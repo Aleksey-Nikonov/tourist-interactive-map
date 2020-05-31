@@ -1,0 +1,32 @@
+.icon{
+    /* font-size: 14px; */
+    /* font-size: 2em; */
+    display: flex;
+    /* width: fit-content; */
+    justify-content: center;
+    align-items: center;
+    /* padding: 1em; */
+    /* border: 1px solid red; */
+    background-color: #ffffff;
+}
+
+.icon_clickable:hover{
+    cursor: pointer;
+    opacity: 0.8;
+    /* background-color: #ecf0f1; */
+}
+
+.icon_border{
+    border: 1px solid #ecf0f1;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+.icon__text{
+    /* text-transform: uppercase; */
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    /* color: #2c3e50;/ */
+    color: #7f8c8d;
+    margin-right: 5px;
+}

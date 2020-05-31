@@ -1,0 +1,25 @@
+[
+    {
+        "question": "What attracts you the most?",
+        "answers": [
+            "Historical buildings",
+            "Beautiful landscapes",
+            "Local cuisine"
+        ]
+    },
+    {
+        "question": "How much money are you ready to spend?",
+        "answers": [
+            "As much as possible",
+            "Not a lot, but not a little",
+            "A little bit"
+        ]
+    },
+    {
+        "question": "What kind of cuisine do you like more?",
+        "answers": [
+            "Russian",
+            "Tatar"
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+.scroll-panel_vertical{
+    overflow-y: auto;
+}
+
+.scroll-panel_horizontal{
+    overflow-x: auto;
+}
+
+.scroll-panel::-webkit-scrollbar {
+    width: 4px;
+}
+
+.scroll-panel::-webkit-scrollbar-track {
+    background: #ecf0f1;
+}
+
+.scroll-panel::-webkit-scrollbar-thumb {
+    background: #95a5a6;
+}
+
+.scroll-panel::-webkit-scrollbar-thumb:hover {
+    background: #7f8c8d;
+}

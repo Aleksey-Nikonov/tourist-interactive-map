@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1723563687,
+        "title": "Велопрокат",
+        "image": "/images/bike-places/tatarstan.jpg",
+        "address": "улица Татарстан",
+        "type": "Service",
+        "description": "Сервис автоматического проката велосипедов Veli'K.",
+        "coords": [49.11842,55.78411],
+        "icon": "/images/map-icons/bicycle-15.svg",
+        "style": "marker_service"
+    },
+    {
+        "id": 4980016445,
+        "title": "Велопрокат",
+        "image": "/images/bike-places/kremlyovskaya.jpg",
+        "address": "Кремлёвская ул., 2",
+        "type": "Service",
+        "description": "Сервис автоматического проката велосипедов Veli'K.",
+        "coords": [49.10893,55.79603],
+        "icon": "/images/map-icons/bicycle-15.svg",
+        "style": "marker_service"
+    },
+    {
+        "id": 5115919381,
+        "title": "Велопрокат",
+        "image": "/images/bike-places/ploshchad-svobody.jpg",
+        "address": "площадь Свободы, 2",
+        "type": "Service",
+        "description": "Сервис автоматического проката велосипедов Veli'K.",
+        "coords": [49.12528,55.79597],
+        "icon": "/images/map-icons/bicycle-15.svg",
+        "style": "marker_service"
+    },    
+    {
+        "id": 7971659738,
+        "title": "Велопрокат",
+        "image": "/images/bike-places/kavi-nadzhmi.jpg",
+        "address": "улица Кави Наджми",
+        "type": "Service",
+        "description": "Сервис автоматического проката велосипедов Veli'K.",
+        "coords": [49.11436,55.79070],
+        "icon": "/images/map-icons/bicycle-15.svg",
+        "style": "marker_service"
+    },
+    {
+        "id": 3671634999,
+        "title": "Велопрокат",
+        "image": "/images/bike-places/kpfu.jpg",
+        "address": "ул. Карла Маркса, 70/10",
+        "type": "Service",
+        "description": "Сервис автоматического проката велосипедов Veli'K.",
+        "coords": [49.12309,55.79075],
+        "icon": "/images/map-icons/bicycle-15.svg",
+        "style": "marker_service"
+    }
+]

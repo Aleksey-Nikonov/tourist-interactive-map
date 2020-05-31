@@ -1,0 +1,114 @@
+.main-container{
+    display: flex;
+    justify-content: center;
+    /* background-color: coral; */
+    height: 100vh;
+}
+
+.main-content{
+    display: flex;
+    /* background-color: teal; */
+    /* flex-direction: row; */
+    /* flex: 1; */
+    width: 100%;
+    /* align-items: center; */
+    padding: 10px;
+}
+
+.map-content{
+    display: flex;
+    flex-direction: column;
+    /* background-color: red; */
+    flex: 3.5;
+    padding: 10px;
+}
+
+.map-route-header{
+    /* background-color: cyan; */
+    margin-bottom: 10px;
+}
+
+.map-route-header__title-wrapper{
+    /* background-color: crimson; */
+}
+
+.map-route-header__title{
+    font-family: 'Lato', sans-serif;
+    font-size: 45px;
+    font-weight: bold;
+    color: #2c3e50;
+}
+
+.map-route-header__description-wrapper{
+    /* background-color: darkorchid; */
+}
+
+.map-route-header__description{
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    color: #7f8c8d;
+}
+
+.map-wrapper{
+    /* background-color: deeppink; */
+    border: 1px solid #ecf0f1;
+    border-radius: 5px;
+    padding: 5px;
+    height: 100%;
+}
+
+#map-area{
+    /* background-color: firebrick; */
+    height: 100%;
+    position: relative;
+}
+
+.sidebar-area{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    /* background-color: burlywood; */
+    padding: 10px;
+    
+}
+
+.menu-wrapper{
+    display: flex;
+    justify-content: flex-end;
+    /* background-color: brown; */
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+.menu-wrapper__button{
+    margin-right: 10px;
+}
+
+.map-routes-wrapper{
+    flex: 1;
+    border: 1px solid #ecf0f1;
+    border-radius: 5px;
+    /* background-color: dodgerblue; */
+    padding: 5px;
+
+}
+
+.map-place-info{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 1;
+
+    
+}
+
+.map-place-info__text{
+    background-color: #bdc3c7;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+    padding: 5px;
+}
